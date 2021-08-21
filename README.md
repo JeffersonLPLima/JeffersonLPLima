@@ -26,7 +26,7 @@ Technologies I have been learning/using:
    * PyTorch
    * Spacy
    * NLTK
-
+   * Huggingface.co
 - Frontend : <br />
    * streamlit.io
 
