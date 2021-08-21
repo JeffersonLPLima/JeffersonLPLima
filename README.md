@@ -35,7 +35,7 @@ Technologies I have been learning/using:
    * mlflow
    * Docker
    * MongoDB
-   * PostgreSQL]
+   * PostgreSQL
    * MySQL
 
 - OS & IDE & Tools : <br />
