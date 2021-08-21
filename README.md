@@ -7,7 +7,7 @@
  Learning something new every day. 
 
 
-- 💌 Contact me at [jeffersonlima163@gmail.com](mailto:jeffersonlima163@gmail.com)
+- 📩 Contact me at [jeffersonlima163@gmail.com](mailto:jeffersonlima163@gmail.com)
 
 
 
@@ -38,6 +38,6 @@ Technologies I have been learning/using:
    * PostgreSQL
    * MySQL
 
-- OS & IDE & Tools : <br />
+- IDE & Tools : <br />
    * VS Code
    * Git
