@@ -7,7 +7,7 @@
  Learning something new every day. 
 
 
-- 💌 Contact me at [jeffersonlima163@gmail.com](mailto:jeffersonlima163@gmail.com).
+- 💌 Contact me at [jeffersonlima163@gmail.com](mailto:jeffersonlima163@gmail.com)
 
 
 
