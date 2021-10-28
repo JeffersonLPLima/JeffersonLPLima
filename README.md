@@ -32,6 +32,7 @@ Technologies I have been learning/using:
 
 - Backend : <br />
    * FastAPI
+   * Spark
    * mlflow
    * Docker
    * MongoDB
