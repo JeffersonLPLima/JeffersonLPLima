@@ -34,6 +34,7 @@ Technologies I have been learning/using:
    * FastAPI
    * Spark
    * mlflow
+   * airflow
    * Docker
    * MongoDB
    * PostgreSQL
